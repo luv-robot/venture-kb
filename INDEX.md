@@ -10,6 +10,7 @@
 - [[10-projects/quant-alpha-platform/product-brief]]
 - [[10-projects/twlr/product-brief]]
 - [[10-projects/ai-coach/product-brief]]
+- [[10-projects/quant-odyssey/product-brief]]
 
 ## Core Playbooks
 
