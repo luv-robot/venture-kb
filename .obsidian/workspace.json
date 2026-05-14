@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-projects/quant-alpha-platform/strategy_research_catalog.md.md",
+                "file": "10-projects/quant-odyssey/product-brief.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "strategy_research_catalog.md"
+              "title": "product-brief"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-projects/quant-alpha-platform/strategy_research_catalog.md.md",
+                "file": "10-projects/quant-odyssey/product-brief.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "strategy_research_catalog.md 的反向链接列表"
+              "title": "product-brief 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-projects/quant-alpha-platform/strategy_research_catalog.md.md",
+                "file": "10-projects/quant-odyssey/product-brief.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "strategy_research_catalog.md 的出链列表"
+              "title": "product-brief 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-projects/quant-alpha-platform/strategy_research_catalog.md.md",
+                "file": "10-projects/quant-odyssey/product-brief.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "strategy_research_catalog.md 的大纲"
+              "title": "product-brief 的大纲"
             }
           }
         ]
@@ -185,6 +185,8 @@
   },
   "active": "efeb08368a76e8f5",
   "lastOpenFiles": [
+    "scripts/kb.sh",
+    "10-projects/quant-alpha-platform/strategy_research_catalog.md.md",
     "10-projects/quant-odyssey/product-brief.md",
     "10-projects/quant-odyssey",
     "10-projects/quant-alpha-platform/Harness.md.md",
@@ -194,7 +196,6 @@
     "10-projects/quant-alpha-platform/Regime switching.md.md",
     "10-projects/quant-alpha-platform/Fragility Score.md.md",
     "10-projects/quant-alpha-platform/Trend Regime Score.md.md",
-    "10-projects/quant-alpha-platform/strategy_research_catalog.md.md",
     "INDEX.md",
     "20-playbooks/obsidian-github-kb.md",
     "00-inbox/README.md",

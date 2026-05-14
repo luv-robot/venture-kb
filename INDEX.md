@@ -1,36 +1,35 @@
-
-### `INDEX.md`
-
 # Knowledge Base Index
 
-## Active Projects
+Generated automatically by `scripts/kb.sh index`.
 
-- [[10-projects/flashcutter/product-brief]]
-- [[10-projects/game-analysis-ai/product-brief]]
-- [[10-projects/quant-alpha-platform/product-brief]]
-- [[10-projects/twlr/product-brief]]
-- [[10-projects/ai-coach/product-brief]]
-- [[10-projects/quant-odyssey/product-brief]]
+## Projects
 
-## Core Playbooks
+- [open-questions](10-projects/flashcutter/open-questions.md)
+- [product-brief](10-projects/flashcutter/product-brief.md)
+- [Fragility Score.md](10-projects/quant-alpha-platform/Fragility Score.md.md)
+- [Harness.md](10-projects/quant-alpha-platform/Harness.md.md)
+- [Market Context Engine.md](10-projects/quant-alpha-platform/Market Context Engine.md.md)
+- [optimizer.md](10-projects/quant-alpha-platform/optimizer.md.md)
+- [Regime switching.md](10-projects/quant-alpha-platform/Regime switching.md.md)
+- [Strategy types.md](10-projects/quant-alpha-platform/Strategy types.md.md)
+- [strategy_research_catalog.md](10-projects/quant-alpha-platform/strategy_research_catalog.md.md)
+- [Trend Regime Score.md](10-projects/quant-alpha-platform/Trend Regime Score.md.md)
+- [product-brief](10-projects/quant-odyssey/product-brief.md)
 
-- [[20-playbooks/obsidian-github-kb]]
-- [[20-playbooks/hermes-agent]]
-- [[20-playbooks/api-key-management]]
-- [[20-playbooks/macos-terminal-proxy]]
-- [[20-playbooks/telegram-bot-gateway]]
+## Playbooks
+
+- [api-key-management](20-playbooks/api-key-management.md)
+- [hermes-agent](20-playbooks/hermes-agent.md)
+- [obsidian-github-kb](20-playbooks/obsidian-github-kb.md)
 
 ## Decisions
 
-- [[30-decisions/2026-05-13-agent-tooling-roles]]
+- [2026-05-13-agent-tooling-roles](30-decisions/2026-05-13-agent-tooling-roles.md)
+
+## Research
+
 
 ## Inbox
 
-- [[00-inbox/README]]
-
-## Maintenance
-
-- Review `00-inbox/` weekly.
-- Review `status: needs-review` notes weekly.
-- Archive stale notes monthly.
-EOF
+- [README](00-inbox/README.md)
+- [未命名](00-inbox/未命名.md)
