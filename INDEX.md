@@ -14,6 +14,7 @@ Generated automatically by `scripts/kb.sh index`.
 - [Strategy types.md](10-projects/quant-alpha-platform/Strategy types.md.md)
 - [strategy_research_catalog.md](10-projects/quant-alpha-platform/strategy_research_catalog.md.md)
 - [Trend Regime Score.md](10-projects/quant-alpha-platform/Trend Regime Score.md.md)
+- [open-questions](10-projects/quant-odyssey/open-questions.md)
 - [product-brief](10-projects/quant-odyssey/product-brief.md)
 
 ## Playbooks
