@@ -4,8 +4,12 @@ Generated automatically by `scripts/kb.sh index`.
 
 ## Projects
 
+- [open-questions](10-projects/ai-coach/open-questions.md)
+- [product-brief](10-projects/ai-coach/product-brief.md)
 - [open-questions](10-projects/flashcutter/open-questions.md)
 - [product-brief](10-projects/flashcutter/product-brief.md)
+- [open-questions](10-projects/game-analysis-ai/open-questions.md)
+- [product-brief](10-projects/game-analysis-ai/product-brief.md)
 - [Fragility Score.md](10-projects/quant-alpha-platform/Fragility Score.md.md)
 - [Harness.md](10-projects/quant-alpha-platform/Harness.md.md)
 - [Market Context Engine.md](10-projects/quant-alpha-platform/Market Context Engine.md.md)
@@ -16,6 +20,8 @@ Generated automatically by `scripts/kb.sh index`.
 - [Trend Regime Score.md](10-projects/quant-alpha-platform/Trend Regime Score.md.md)
 - [open-questions](10-projects/quant-odyssey/open-questions.md)
 - [product-brief](10-projects/quant-odyssey/product-brief.md)
+- [open-questions](10-projects/twlr/open-questions.md)
+- [product-brief](10-projects/twlr/product-brief.md)
 
 ## Playbooks
 
